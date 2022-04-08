@@ -1,0 +1,32 @@
+body{
+	background: #202124;
+}
+.formulario{
+	text-align: center;
+}
+
+.textboxform{
+	width: 20em;
+	height: 2.5em;
+	margin: 0.5em;
+	padding-left: 10px;
+	border-radius:5px;
+
+}
+
+.eliminar{
+	color: #F02A2A;
+	font-weight: bold;
+}
+
+label, .darkmode{
+	color: white;
+}
+
+.btn{
+		background: #0e6251;
+		color: white;
+		padding: 5px 25px 5px 25px;
+		margin-top: 15px;
+		border-radius: 2px solid;
+}

@@ -1,0 +1,28 @@
+.formulario{
+	text-align: center;
+}
+
+.textboxform{
+	width: 20em;
+	height: 2.5em;
+	margin: 0.5em;
+	padding-left: 10px;
+	border-radius:5px;
+	
+}
+
+.btn{
+	background: #0e6251;
+	color: white;
+	padding: 5px 25px 5px 25px;
+	margin-top: 15px;
+	border-radius: 2px solid;
+}
+
+.red_btn{
+	background: #CA2424;
+}
+
+.resultado{
+	background:#D8D4D4;
+}
