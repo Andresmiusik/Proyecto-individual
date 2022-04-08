@@ -1,3 +1,7 @@
+body{
+	background: #202124;
+}
+
 .formulario{
 	text-align: center;
 }
@@ -8,7 +12,7 @@
 	margin: 0.5em;
 	padding-left: 10px;
 	border-radius:5px;
-	
+
 }
 
 .btn{
@@ -25,4 +29,8 @@
 
 .resultado{
 	background:#D8D4D4;
+}
+
+label, .darkmode{
+	color: white;
 }
